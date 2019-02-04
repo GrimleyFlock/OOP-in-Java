@@ -1,0 +1,8 @@
+hasNextInt(), hasNextDouble() - Check if the value we want to read is of the correct data type before we read it.
+The method returns true if the Scanner has a token of that type otherwise false.
+
+Today's Class: Array list class
+# Dynamic way of dealing with arrays
+# Found in java.util package
+# Helpful in manipulation of arrays
+# Easily change it's size
